@@ -17,6 +17,7 @@
   - Flask → [Example Chatroom](https://github.com/marianojhb/mabelo-flack)
   - PyQt w/SQLite
   - Django w/Postgres, APIs
+- **Moodle implementation** [Example Club Champagnat](https://github.com/marianojhb/champacampus)
 
 ### Past Highlights
 - 📳 Internal Auditor [Nextel International](https://es.wikipedia.org/wiki/NII_Holdings,_Inc.) (2003-2005)
