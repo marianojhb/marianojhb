@@ -3,7 +3,7 @@
 **TL;DR**
 
 ### Currently
-- 💻 Computer Programming student at Universidad Tecnológica Nacional – Facultad Regional General Pacheco (expected graduation: Dec 2025)
+- 💻 Computer Programming student at Universidad Tecnológica Nacional – Facultad Regional General Pacheco (2024 - 2025)
 - 🌱 I’m currently learning Node.js, Svelte & TypeScript
 - 🔭 I’m looking to collaborate on open source projects
 - 🎍 Founder and operator of [bambuguazu](https://bambuguazu.com) -retail of natural goods like bamboo- (2005–present)
