@@ -15,10 +15,10 @@
 - **JS Front-end** [Example 'Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd)
 - **Java + Springboot + Angular**
 - **Python**
-  - Flask → [Example Chatroom](https://github.com/marianojhb/mabelo-flack)
+  - Flask → [Example Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
   - PyQt w/SQLite
-  - Django w/Postgres [Example 'Cafe'](https://github.com/marianojhb/cafe)
-- **Moodle implementation** [Example 'Club Champagnat'](https://github.com/marianojhb/champacampus)
+  - Django w/Postgres [Example 'Cafe', 2019](https://github.com/marianojhb/cafe)
+- **Moodle implementation** [Example 'Club Champagnat', 2025](https://github.com/marianojhb/champacampus)
 
 ### Past Highlights
 - 📳 Internal Auditor [Nextel International](https://es.wikipedia.org/wiki/NII_Holdings,_Inc.) (2003-2005)
