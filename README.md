@@ -19,6 +19,7 @@
   - PyQt w/SQLite
   - Django w/Postgres [Example 'Cafe', 2019](https://github.com/marianojhb/cafe)
 - **Moodle implementation** [Example 'Club Champagnat', 2025](https://github.com/marianojhb/champacampus)
+- **Microsoft Access** Designed a fully customized business management app (2009) for operating my own company
 
 ### Past Highlights
 - 📳 Internal Auditor [Nextel International](https://es.wikipedia.org/wiki/NII_Holdings,_Inc.) (2003-2005)
