@@ -18,7 +18,7 @@
 - **C++ (computer game w/ SFML library)** ['1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/Proyecto-1942)
 
 ### More Academic Projects
-- **JS Front-end** ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd)
+- **JS Front-end** ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
 - **Python**
   - Flask → [Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
 
