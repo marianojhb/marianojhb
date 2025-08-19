@@ -5,7 +5,7 @@
 Hello, I'm a programmer graduated from the National Technological University (UTN-FRGP).
 I’m passionate about developing efficient and scalable software, and I enjoy working in teams to solve complex problems.
 
-## Currently
+## 🚶‍♂️‍➡️Currently
 - 💻 Computer Programming at [Universidad Tecnológica Nacional – Facultad Regional General Pacheco](https://www.frgp.utn.edu.ar/) (2024 - 2025)
 - 🌱 I’m currently learning Node.js, Svelte & TypeScript, AI tools
 - 🔭 I’m looking to collaborate on open source projects
