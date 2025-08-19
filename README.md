@@ -22,7 +22,7 @@
 - **Python**
   - Flask → [Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
 
-### O
+### Other Skills
 - **Java + Springboot + Angular**
 - **Python**
   - PyQt w/SQLite
