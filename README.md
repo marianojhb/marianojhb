@@ -10,18 +10,24 @@
 
 ### Real experiences
 - ![ZOHO](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FZoho-Cloud%20Software%20Suite%20for%20Businesses-red%3Flogo%3Dzoho%26logoColor%3Dwhite?logo=zoho&logoColor=white&label=Zoho&labelColor=red&color=red) I managed to successfully integrate Zoho Books, Zoho Bigin, and Zoho Forms into a single app using Zoho Flow, enhancing the potential of each web app and enabling seamless data reuse across them. I also created numerous custom functions in Deluge to deliver a better experience for both users and managers. The company’s business website was integrated to allow customers to submit custom estimates, which were immediately ready to be converted in Zoho Books and Zoho Bigin, with an automated follow-up system for retargeting.
+- **Moodle implementation** [Example 'Club Champagnat', 2025](https://github.com/marianojhb/champacampus)
 
-### Skills in
+### University Projects
 - **C# Web applications w/.NET** [Example 'Appointments', 2025](https://github.com/marianojhb/TP_INT_P2)
 - **C++ (console computer game)** [Example 'Dices', 2024](https://github.com/marianojhb/proyectodados)
 - **C++ (computer game w/ SFML library)** [Example '1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942)
+
+### More Academic Projects
 - **JS Front-end** [Example 'Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd)
+- **Python**
+  - Flask → [Example Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
+
+### O
 - **Java + Springboot + Angular**
 - **Python**
   - Flask → [Example Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
   - PyQt w/SQLite
   - Django w/Postgres [Example 'Cafe', 2019](https://github.com/marianojhb/cafe)
-- **Moodle implementation** [Example 'Club Champagnat', 2025](https://github.com/marianojhb/champacampus)
 - **Microsoft Access** Designed a fully customized business management app (2009) for operating my own company
 
 ### Past Highlights
