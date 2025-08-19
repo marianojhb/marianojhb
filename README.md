@@ -3,13 +3,13 @@
 **TL;DR**
 
 ### Currently
-- 💻 Computer Programming student at Universidad Tecnológica Nacional – Facultad Regional General Pacheco (2024 - 2025)
+- 💻 Computer Programming student at [Universidad Tecnológica Nacional – Facultad Regional General Pacheco](https://www.frgp.utn.edu.ar/) (2024 - 2025)
 - 🌱 I’m currently learning Node.js, Svelte & TypeScript
 - 🔭 I’m looking to collaborate on open source projects
-- 🎍 Founder and operator of BambuGuazu, a retail store for natural goods like bamboo (2005–present)
+- 🎍 Founder and operator of [BambuGuazu](https://bambuguazu.com/), a retail store for natural goods like bamboo (2005–present)
 
 ### Real experiences
-- ![ZOHO](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FZoho-Cloud%20Software%20Suite%20for%20Businesses-red%3Flogo%3Dzoho%26logoColor%3Dwhite?logo=zoho&logoColor=white&label=Zoho&labelColor=red&color=red) At BambuGuazu (SOHO) I managed to successfully integrate Zoho Books, Zoho Bigin, and Zoho Forms into a single app using Zoho Flow, enhancing the potential of each web app and enabling seamless data reuse across them. I also created numerous custom functions in Deluge to deliver a better experience for both users and managers. The company’s business website was integrated to allow customers to submit custom estimates, which were immediately ready to be converted in Zoho Books and Zoho Bigin, with an automated follow-up system for retargeting.
+- ![ZOHO](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FZoho-Cloud%20Software%20Suite%20for%20Businesses-red%3Flogo%3Dzoho%26logoColor%3Dwhite?logo=zoho&logoColor=white&label=Zoho&labelColor=red&color=red) At BambuGuazu (SOHO) I managed to successfully integrate Zoho Books, Zoho Bigin, and Zoho Forms into a single app using Zoho Flow, enhancing the potential of each web app and enabling seamless data reuse across them. I also created numerous custom functions in [Deluge](https://www.zoho.com/deluge/) to deliver a better experience for both users and managers. The company’s business website was integrated to allow customers to submit custom estimates, which were immediately ready to be converted in Zoho Books and Zoho Bigin, with an automated follow-up system for retargeting.
 - **Moodle implementation** ['Club Champagnat', 2025](https://campus.clubchampagnat.com.ar)
 
 ### University Projects
