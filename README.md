@@ -15,7 +15,7 @@
 ### University Projects
 - **C# Web applications w/.NET** ['Appointments', 2025](https://github.com/marianojhb/TP_INT_P2)
 - **C++ (console computer game)** ['Dices', 2024](https://github.com/marianojhb/proyectodados)
-- **C++ (computer game w/ SFML library)** '1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942)
+- **C++ (computer game w/ SFML library)** ['1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942)
 
 ### More Academic Projects
 - **JS Front-end** ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd)
