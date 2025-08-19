@@ -10,12 +10,12 @@
 
 ### Real experiences
 - ![ZOHO](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FZoho-Cloud%20Software%20Suite%20for%20Businesses-red%3Flogo%3Dzoho%26logoColor%3Dwhite?logo=zoho&logoColor=white&label=Zoho&labelColor=red&color=red) At BambuGuazu (SOHO) I managed to successfully integrate Zoho Books, Zoho Bigin, and Zoho Forms into a single app using Zoho Flow, enhancing the potential of each web app and enabling seamless data reuse across them. I also created numerous custom functions in [Deluge](https://www.zoho.com/deluge/) to deliver a better experience for both users and managers. The company’s business website was integrated to allow customers to submit custom estimates, which were immediately ready to be converted in Zoho Books and Zoho Bigin, with an automated follow-up system for retargeting.
-- **Moodle implementation** ['Club Champagnat', 2025](https://campus.clubchampagnat.com.ar)
+- **Moodle implementation** ['Club Champagnat', 2025](https://campus.clubchampagnat.com.ar). Deployed and customized Moodle by applying new modules, adapting the platform from an education-oriented system to a sports organization solution, and creating custom reports for the Board of Directors. +600 users registered.
 
 ### University Projects
-- **C# Web applications w/.NET** ['Appointments', 2025](https://github.com/marianojhb/TP_INT_P2)
-- **C++ (console computer game)** ['Dices', 2024](https://github.com/marianojhb/proyectodados)
-- **C++ (computer game w/ SFML library)** ['1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942)
+- **C# Web applications w/.NET** ['Appointments', 2025](https://github.com/marianojhb/TP_INT_P2) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
+- **C++ (console computer game)** ['Dices', 2024](https://github.com/marianojhb/proyectodados) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/proyectodados)
+- **C++ (computer game w/ SFML library)** ['1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/Proyecto-1942)
 
 ### More Academic Projects
 - **JS Front-end** ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd)
