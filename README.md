@@ -2,23 +2,48 @@
 
 **TL;DR**
 
-### Currently
-- 💻 Computer Programming student at [Universidad Tecnológica Nacional – Facultad Regional General Pacheco](https://www.frgp.utn.edu.ar/) (2024 - 2025)
-- 🌱 I’m currently learning Node.js, Svelte & TypeScript
+Hello, I'm a programmer graduated from the National Technological University (UTN-FRGP).
+I’m passionate about developing efficient and scalable software, and I enjoy working in teams to solve complex problems.
+
+## Currently
+- 💻 Computer Programming at [Universidad Tecnológica Nacional – Facultad Regional General Pacheco](https://www.frgp.utn.edu.ar/) (2024 - 2025)
+- 🌱 I’m currently learning Node.js, Svelte & TypeScript, AI tools
 - 🔭 I’m looking to collaborate on open source projects
 - 🎍 Founder and operator of [BambuGuazu](https://bambuguazu.com/), a retail store for natural goods like bamboo (2005–present)
 
-### Real experiences
+## 📂 Experience
+
+- **Freelance Developer / Personal Projects**
+Work carried out in C#, Java, Python, and JS, applying best practices and version control.
+
+- **Academic Experience and University Projects**
+Development of applications and games in SFML, API integration, and database management.
+
+
+## 📌 Skills (see full tech stack at the end)
+
+- **Languages:** C#, Java, Python, JavaScript, C++
+- **Frameworks and Technologies:** .NET, Spring Boot, Django, Svelte, PyQt, SFML
+- **Databases:** SQL Server, MySQL, PostgreSQL, SQLite
+- **Tools and IDEs:** Git, GitHub, CLion, Visual Studio Code, Eclipse, PyCharm, Visual Studio, Codepen, Notion
+- **Others:** Videogames development, data analisys, APIs REST
+  
+
+## 💻 Featured Projects
 - <a href="https://www.zoho.com">![Static Badge](https://img.shields.io/badge/Zoho-Cloud%20Software%20for%20Businesses-white?logo=zoho&logoColor=white&labelColor=red&color=grey)</a> At BambuGuazu (SOHO) I managed to successfully integrate Zoho Books, Zoho CRM Bigin, and Zoho Forms into a single app using Zoho Flow, enhancing the potential of each web app and enabling seamless data reuse across them. I also created numerous custom functions in [Deluge](https://www.zoho.com/deluge/) to deliver a better experience for both users and managers. The company’s business website was integrated to allow customers to submit custom estimates, which were immediately ready to be converted in Zoho Books and Zoho Bigin, with an automated follow-up system for retargeting.
-- **Moodle implementation** ['Club Champagnat', 2025](https://campus.clubchampagnat.com.ar). Deployed and customized Moodle by applying new modules, adapting the platform from an education-oriented system to a sports organization solution, and creating custom reports for the Board of Directors. +600 users registered.
+- <a href="https://campus.clubchampagnat.com.ar">![Static Badge](https://img.shields.io/badge/Campus%20Club%20Champagnat-darkblue?logo=moodle&label=moodle)</a> **Moodle implementation** ['Club Champagnat', 2025](https://campus.clubchampagnat.com.ar). Deployed and customized Moodle by applying new modules, adapting the platform from an education-oriented system to a sports organization solution, and creating custom reports for the Board of Directors. +600 users registered.
+
+---
+
+## Academic Projects
 
 ### University Projects
 - **C# Web applications w/.NET** ['Appointments', 2025](https://github.com/marianojhb/TP_INT_P2) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
 - **C++ (console computer game)** ['Dices', 2024](https://github.com/marianojhb/proyectodados) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/proyectodados)
 - **C++ (computer game w/ SFML library)** ['1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/Proyecto-1942)
 
-### More Academic Projects
-- **JS Front-end** ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
+### Other Academic Projects
+- **JS Front-end** TalentoTech ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
 - **Python**
   - Flask → [Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
 
@@ -35,8 +60,11 @@
 
 
 ### 🌐 Socials:
+[![Linkedin](https://i.sstatic.net/gVE0j.png) linkedin.com/in/mariano](https://www.linkedin.com/in/mariano-b-6616976a/)
 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mbelgrano@gmail.com) 
+[![Static Badge](https://img.shields.io/badge/mbelgrano%40gmail.com-red?style=social&logo=gmail&logoColor=red&label=Gmail%20&labelColor=white)](mailto:mbelgrano@gmail.com)
+
+![GitHub](https://img.shields.io/badge/GitHub-marianojhb-white?style=social&logo=github)
 
 ### 💻 Tech Stack:
 
