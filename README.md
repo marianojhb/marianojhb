@@ -4,28 +4,33 @@
 
 Hello, I'm a programmer graduated from the National Technological University (UTN-FRGP).
 I’m passionate about developing efficient and scalable software, and I enjoy working in teams to solve complex problems.
+I love to explore almost all functionalities of any given device, software command, or programming language. Since I was a kid I programmed in BASIC, installed dozens of linux distros (Arch, Manjaro, Zorin, and so on), was member of many BBS and connected PCs via LAN for gaming, before internet era, connected a Garmin GPS to a notebook and hooked Keyhole app (before Google Earth even existed!)
 
 ## 🚶‍♂️‍➡️Currently
 - 💻 Computer Programming at [Universidad Tecnológica Nacional – Facultad Regional General Pacheco](https://www.frgp.utn.edu.ar/) (2024 - 2025)
-- 🌱 I’m currently learning Node.js, Svelte & TypeScript, AI tools
+- 🌱 I’m currently learning React, Svelte & TypeScript, AI tools
 - 🔭 I’m looking to collaborate on open source projects
 - 🎍 Founder and operator of [BambuGuazu](https://bambuguazu.com/), a retail store for natural goods like bamboo (2005–present)
 
 ## 📂 Experience
 
 - **Freelance Developer / Personal Projects**
-Work carried out in C#, Java, Python, and JS, applying best practices and version control.
+Work carried out in C# (.NET, Entity Framework, Webforms, Core), Java (Springboot), Python (Flask, Django), and JS (Vanilla, Svelte, React), applying best practices and version control.
 
 - **Academic Experience and University Projects**
-Development of applications and games in SFML, API integration, and database management.
+- Development of applications and games in SFML, API integration, and database management.
+- Functional requirements, database normalization, design and implementation in MySQL, MariaDB, Microsoft SQL Server, Postgres and SQLite, as well as No-SQL MongoDB and FireStore.
+- Good experience in Docker and Kubernetes for CI/CD
+- Excel in Git and Github tools
 
 
 ## 📌 Skills (see full tech stack at the end)
 
 - **Languages:** C#, Java, Python, JavaScript, C++
-- **Frameworks and Technologies:** .NET, Spring Boot, Django, Svelte, PyQt, SFML
-- **Databases:** SQL Server, MySQL, PostgreSQL, SQLite
+- **Frameworks and Technologies:** React, .NET, Spring Boot, Django, Svelte, PyQt, SFML
+- **Databases:** Supabase, SQL Server, MySQL, PostgreSQL, SQLite
 - **Tools and IDEs:** Git, GitHub, CLion, Visual Studio Code, Eclipse, PyCharm, Visual Studio, Codepen, Notion
+- **Computer Graphic Tools:** Figma, Draw.io, Affinity, Inkscape, Gimp, Illustrator, Photoshop, AutoCAD
 - **Others:** Videogames development, data analisys, APIs REST
   
 
