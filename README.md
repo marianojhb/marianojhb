@@ -65,7 +65,7 @@ Work carried out in C# (.NET, Entity Framework, Webforms, Core), Java (Springboo
 
 
 ### 🌐 Socials:
-[![Linkedin](https://i.sstatic.net/gVE0j.png) linkedin.com/in/mariano](https://www.linkedin.com/in/mariano-b-6616976a/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) linkedin.com/in/mariano](https://www.linkedin.com/in/marianobelgrano/)
 
 [![Static Badge](https://img.shields.io/badge/mbelgrano%40gmail.com-red?style=social&logo=gmail&logoColor=red&label=Gmail%20&labelColor=white)](mailto:mbelgrano@gmail.com)
 
