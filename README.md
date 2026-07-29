@@ -1,85 +1,286 @@
-## Hi, I'm Mariano 👋
+# Hi, I'm Mariano 👋
 
-**TL;DR**
+### Mobile and Full-Stack Developer | React Native · Expo · TypeScript · Node.js
 
-Hello, I'm a programmer graduated from the National Technological University (UTN-FRGP).
-I’m passionate about developing efficient and scalable software, and I enjoy working in teams to solve complex problems.
-I love to explore almost all functionalities of any given device, software command, or programming language. Since I was a kid I programmed in BASIC, installed dozens of linux distros (Arch, Manjaro, Zorin, and so on), was member of many BBS and connected PCs via LAN for gaming, before internet era, connected a Garmin GPS to a notebook and hooked Keyhole app (before Google Earth even existed!)
+I'm a Computer Programming student at **Universidad Tecnológica Nacional — Facultad Regional General Pacheco (UTN-FRGP)** in Argentina.
 
-## 🚶‍♂️‍➡️Currently
-- 💻 Computer Programming at [Universidad Tecnológica Nacional – Facultad Regional General Pacheco](https://www.frgp.utn.edu.ar/) (2024 - 2025)
-- 🌱 I’m currently learning React, Svelte & TypeScript, AI tools
-- 🔭 I’m looking to collaborate on open source projects
-- 🎍 Founder and operator of [BambuGuazu](https://bambuguazu.com/), a retail store for natural goods like bamboo (2005–present)
+I currently focus on developing mobile applications with **React Native, Expo and TypeScript**, supported by full-stack technologies such as **Node.js, Express, Prisma and PostgreSQL**.
 
-## 📂 Experience
+My main project is **Almacén de Bolsillo**, a mobile business-management application designed for small retailers. It combines inventory management, sales, purchases, suppliers, employees, reporting and role-based access control in a single mobile platform.
 
-- **Freelance Developer / Personal Projects**
-Work carried out in C# (.NET, Entity Framework, Webforms, Core), Java (Springboot), Python (Flask, Django), and JS (Vanilla, Svelte, React), applying best practices and version control.
+I also bring previous experience in business administration, process improvement, system integrations and software development across several languages and ecosystems.
 
-- **Academic Experience and University Projects**
-- Development of applications and games in SFML, API integration, and database management.
-- Functional requirements, database normalization, design and implementation in MySQL, MariaDB, Microsoft SQL Server, Postgres and SQLite, as well as No-SQL MongoDB and FireStore.
-- Good experience in Docker and Kubernetes for CI/CD
-- Excel in Git and Github tools
-
-
-## 📌 Skills (see full tech stack at the end)
-
-- **Languages:** C#, Java, Python, JavaScript, C++
-- **Frameworks and Technologies:** React, .NET, Spring Boot, Django, Svelte, PyQt, SFML
-- **Databases:** Supabase, SQL Server, MySQL, PostgreSQL, SQLite
-- **Tools and IDEs:** Git, GitHub, CLion, Visual Studio Code, Eclipse, PyCharm, Visual Studio, Codepen, Notion
-- **Computer Graphic Tools:** Figma, Draw.io, Affinity, Inkscape, Gimp, Illustrator, Photoshop, AutoCAD
-- **Others:** Videogames development, data analisys, APIs REST
-  
-
-## 💻 Featured Projects
-- <a href="https://www.zoho.com">![Static Badge](https://img.shields.io/badge/Zoho-Cloud%20Software%20for%20Businesses-white?logo=zoho&logoColor=white&labelColor=red&color=grey)</a> At BambuGuazu (SOHO) I managed to successfully integrate Zoho Books, Zoho CRM Bigin, and Zoho Forms into a single app using Zoho Flow, enhancing the potential of each web app and enabling seamless data reuse across them. I also created numerous custom functions in [Deluge](https://www.zoho.com/deluge/) to deliver a better experience for both users and managers. The company’s business website was integrated to allow customers to submit custom estimates, which were immediately ready to be converted in Zoho Books and Zoho Bigin, with an automated follow-up system for retargeting.
-- <a href="https://campus.clubchampagnat.com.ar">![Static Badge](https://img.shields.io/badge/Campus%20Club%20Champagnat-darkblue?logo=moodle&label=moodle)</a> **Moodle implementation** ['Club Champagnat', 2025](https://campus.clubchampagnat.com.ar). Deployed and customized Moodle by applying new modules, adapting the platform from an education-oriented system to a sports organization solution, and creating custom reports for the Board of Directors. +600 users registered.
+📍 Argentina
+🌎 Open to remote opportunities
+📫 [LinkedIn](https://www.linkedin.com/in/marianobelgrano/) · [Email](mailto:mbelgrano@gmail.com)
 
 ---
 
-## Academic Projects
+## 🚀 What I'm Working On
 
-### University Projects
-- **C# Web applications w/.NET** ['Appointments', 2025](https://github.com/marianojhb/TP_INT_P2) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
-- **C++ (console computer game)** ['Dices', 2024](https://github.com/marianojhb/proyectodados) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/proyectodados)
-- **C++ (computer game w/ SFML library)** ['1942 Clone', 2024](https://github.com/marianojhb/Proyecto-1942) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/Proyecto-1942)
-
-### Other Academic Projects
-- **JS Front-end** TalentoTech ['Shopping cart' in Vanilla JS, 2025](https://github.com/marianojhb/cac402025wd) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
-- **Python**
-  - Flask → [Chatroom, 2020](https://github.com/marianojhb/mabelo-flack)
-
-### Other Skills
-- **Java + Springboot + Angular**
-- **Python**
-  - PyQt w/SQLite
-  - Django w/Postgres [Example 'Cafe', 2019](https://github.com/marianojhb/cafe)
-- **Microsoft Access** Designed a fully customized business management app (2009) for operating my own company
-
-### Past Highlights
-- 📳 Internal Auditor [Nextel International](https://es.wikipedia.org/wiki/NII_Holdings,_Inc.) (2003-2005)
-- 🧮 Bachelor's degree in Accounting from [Universidad de San Andrés](http://www.udesa.edu.ar) (1997–2001)
-
-
-### 🌐 Socials:
-[![Linkedin](https://i.sstatic.net/gVE0j.png) linkedin.com/in/mariano](https://www.linkedin.com/in/marianobelgrano/)
-
-[![Static Badge](https://img.shields.io/badge/mbelgrano%40gmail.com-red?style=social&logo=gmail&logoColor=red&label=Gmail%20&labelColor=white)](mailto:mbelgrano@gmail.com)
-
-![GitHub](https://img.shields.io/badge/GitHub-marianojhb-white?style=social&logo=github)
-
-### 💻 Tech Stack:
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marianojhb&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=marianojhb&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marianojhb&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 📱 Building mobile applications with **Expo and React Native**
+* 🟦 Developing strongly typed applications with **TypeScript**
+* ⚙️ Creating REST APIs with **Node.js and Express**
+* 🗃️ Modeling relational databases with **Prisma and PostgreSQL**
+* 🔐 Implementing authentication and authorization with **JWT and RBAC**
+* 🎨 Designing mobile interfaces with **Figma and NativeWind**
+* 🧪 Improving API validation, documentation and software architecture
+* 🤝 Interested in contributing to open-source projects
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marianojhb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 📱 Featured Project
+
+### Almacén de Bolsillo
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Almacén_de_Bolsillo-181717?style=for-the-badge\&logo=github)](https://github.com/marianojhb/almacen-de-bolsillo)
+
+A cross-platform mobile application designed to help small retailers manage their daily operations without requiring traditional business-management infrastructure.
+
+The system is being developed as my final academic project at **UTN**.
+
+### Main features
+
+* Product and category management
+* Inventory and stock movements
+* Manual stock adjustments
+* Low-stock alerts
+* Sales registration and sales history
+* Automatic stock updates after sales
+* Purchases and supplier management
+* Employee and work-shift management
+* Business dashboards and reports
+* User roles and permissions
+* Activity logs and auditing
+
+### Technology stack
+
+**Mobile application**
+
+* Expo
+* React Native
+* Expo Router
+* TypeScript
+* NativeWind
+* React Context API
+* Axios / Fetch API
+* Metro Bundler
+
+**Backend**
+
+* Node.js
+* Express
+* TypeScript
+* Prisma ORM
+* Zod
+* JWT
+* Role-Based Access Control
+* Swagger / OpenAPI
+
+**Database and deployment**
+
+* PostgreSQL
+* Supabase
+* Render
+* Docker
+* Expo Go
+* EAS Build
+
+**Development workflow**
+
+* pnpm workspaces
+* Git and GitHub
+* GitHub Issues
+* GitHub Projects
+* Figma
+* Postman
+
+---
+
+## 💼 Professional and Technical Experience
+
+### Freelance Development and Personal Projects
+
+Development experience with:
+
+* **C# and .NET**
+* **Java and Spring Boot**
+* **Python, Flask and Django**
+* **JavaScript, TypeScript, React and Svelte**
+* REST API development
+* Relational database design
+* Version control with Git and GitHub
+
+### BambuGuazu — Founder and Operator
+
+**2005–present**
+
+Founder and operator of [BambuGuazu](https://bambuguazu.com/), a retail business specializing in natural and bamboo-based products.
+
+In addition to managing the business, I implemented and integrated digital tools to improve its commercial and administrative processes.
+
+### Zoho business integration
+
+[![Zoho](https://img.shields.io/badge/Zoho-Business_Automation-E42527?style=flat-square\&logo=zoho\&logoColor=white)](https://www.zoho.com/)
+
+Integrated:
+
+* Zoho Books
+* Zoho CRM Bigin
+* Zoho Forms
+* Zoho Flow
+
+I created custom functions using **Deluge** to automate data exchange, quotation management, customer follow-ups and internal workflows.
+
+The business website was also integrated with these services, allowing customer estimate requests to be converted into records ready for use in Zoho Books and Zoho Bigin.
+
+### Moodle implementation — Club Champagnat
+
+[![Moodle](https://img.shields.io/badge/Moodle-Campus_Club_Champagnat-F98012?style=flat-square\&logo=moodle\&logoColor=white)](https://campus.clubchampagnat.com.ar)
+
+Deployed and customized a Moodle installation for **Club Champagnat** in 2025.
+
+The platform was adapted from a traditional educational environment into a solution for a sports organization.
+
+Key results:
+
+* More than 600 registered users
+* Installation and configuration of additional modules
+* Platform customization
+* Custom reports for the Board of Directors
+* Adaptation of Moodle workflows to organizational requirements
+
+---
+
+## 🎓 Academic Projects
+
+### Appointment Management System
+
+[![Repository](https://img.shields.io/badge/GitHub-Appointments-181717?style=flat-square\&logo=github)](https://github.com/marianojhb/TP_INT_P2)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/TP_INT_P2)
+
+Web application developed with:
+
+* C#
+* .NET
+* Entity Framework
+* SQL Server
+* Layered architecture
+
+### 1942 Clone
+
+[![Repository](https://img.shields.io/badge/GitHub-1942_Clone-181717?style=flat-square\&logo=github)](https://github.com/marianojhb/Proyecto-1942)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/Proyecto-1942)
+
+Desktop game developed with:
+
+* C++
+* SFML
+* Object-oriented programming
+* Game loops
+* Collision detection
+
+### Dice Game
+
+[![Repository](https://img.shields.io/badge/GitHub-Dice_Game-181717?style=flat-square\&logo=github)](https://github.com/marianojhb/proyectodados)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/marianojhb/proyectodados)
+
+Console game developed with C++ as part of my university coursework.
+
+### JavaScript Shopping Cart
+
+[![Repository](https://img.shields.io/badge/GitHub-Shopping_Cart-181717?style=flat-square\&logo=github)](https://github.com/marianojhb/cac402025wd)
+
+Front-end shopping-cart project developed with:
+
+* JavaScript
+* HTML
+* CSS
+* DOM manipulation
+* Local application state
+
+### Python Chatroom
+
+[![Repository](https://img.shields.io/badge/GitHub-Flask_Chatroom-181717?style=flat-square\&logo=github)](https://github.com/marianojhb/mabelo-flack)
+
+Chat application developed using Python and Flask.
+
+---
+
+## 🧰 Current Technology Stack
+
+### Mobile and Frontend
+
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend and APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge\&logo=express\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge\&logo=zod\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
+
+### Databases and Cloud
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge\&logo=render\&logoColor=white)
+
+### Development Tools
+
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge\&logo=pnpm\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 🧠 Additional Experience
+
+I have previously worked with or studied:
+
+* C# and .NET
+* Java and Spring Boot
+* Python, Flask, Django and PyQt
+* C and C++
+* Svelte and SvelteKit
+* Angular
+* PHP
+* MySQL and MariaDB
+* MongoDB and Firebase
+* SFML
+* Microsoft Access
+* Docker and Kubernetes
+* Linux and Bash
+
+---
+
+## 🏆 Previous Highlights
+
+* Internal Auditor at **Nextel International** — 2003–2005
+* Bachelor's degree in Accounting from **Universidad de San Andrés** — 1997–2001
+* Designed a customized Microsoft Access business-management application for my own company — 2009
+* Long-term experience combining business operations, process analysis and technology
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariano_Belgrano-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marianobelgrano/)
+[![Gmail](https://img.shields.io/badge/Gmail-mbelgrano%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mbelgrano@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-marianojhb-181717?style=for-the-badge\&logo=github)](https://github.com/marianojhb)
 
