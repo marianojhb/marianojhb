@@ -283,4 +283,5 @@ I have previously worked with or studied:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mariano_Belgrano-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/marianobelgrano/)
 [![Gmail](https://img.shields.io/badge/Gmail-mbelgrano%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mbelgrano@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-marianojhb-181717?style=for-the-badge\&logo=github)](https://github.com/marianojhb)
+[![Instagram](https://img.shields.io/badge/Instagram-marianobelgrano.dev-181717?style=for-the-badge\&logo=github)](https://instagram.com/marianobelgrano.dev)
 
